@@ -8,3 +8,7 @@ commands:
     description: テストというメッセージを送信するだけのコマンド
     aliases:
       - msg
+  countdown:
+    description: カウントダウンを発動させるコマンド
+    aliases:
+      - cd
