@@ -1,0 +1,10 @@
+name: CastellaPlugin
+version: 1.0-SNAPSHOT
+main: com.managers.castella.castellaplugin.CastellaPlugin
+api-version: 1.13
+
+commands:
+  message:
+    description: テストというメッセージを送信するだけのコマンド
+    aliases:
+      - msg
