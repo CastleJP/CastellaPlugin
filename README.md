@@ -1,8 +1,11 @@
 # MinecraftSpigotPlugins
-Minecraft��Spigot�v���O�C���ł��B
-�e�X�gVersion - 1.12.2
-����:�v���O�C���̐�����������Ǝv���A�����ɍ���Ă���v���O�C���Ȃ̂ŁA���v�͂Ȃ��ł��B
+MinecraftのSpigotプラグインです。
+テストVersion - 1.12.2
+説明:プラグインの制作をしたいと思い、試しに作っているプラグイン
 
 #Messages
-/message 1~3����͂���ƁA�`���b�g�Ƀ��b�Z�[�W���\������邾����
-�v���O�C���ł��B
+/message 1~3を入力すると、チャットにメッセージが表示されるだけど
+プラグインです。
+
+#Countdown
+/cdと入力すると、チャットでカウントダウンがはじまるプラグインです。
